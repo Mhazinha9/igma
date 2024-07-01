@@ -13,4 +13,13 @@
     display: flex;
     justify-content: space-between;
 }
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.container imagem{
+    padding: lem;
+
+}
 
